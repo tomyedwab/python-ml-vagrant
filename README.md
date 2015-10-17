@@ -9,4 +9,5 @@ Dependencies
 ============
 
 [Vagrant](https://www.vagrantup.com/)
+
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (or VMWare, or [whatever](https://docs.vagrantup.com/v2/getting-started/providers.html))
