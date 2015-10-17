@@ -1,0 +1,31 @@
+# IPython notebook support
+
+ipython==3.2.1
+pyzmq==14.7.0
+tornado==4.2.1
+
+# Run R in an IPython notebook
+
+rpy2==2.6.1
+
+# Analysis in Python
+
+numpy==1.9.2
+pandas==0.16.2
+matplotlib==1.4.3
+ggplot==0.6.8
+
+# For BigQuery
+
+oauth2client==1.4.12
+google-api-python-client==1.4.1
+
+# For GCS
+
+gcs-oauth2-boto-plugin==1.9
+
+# Misc dependencies
+
+Jinja2==2.7.3
+jsonschema==2.5.1
+Pygments==2.0.2
