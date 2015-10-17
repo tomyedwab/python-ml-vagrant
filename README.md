@@ -5,6 +5,16 @@ Clone this repository locally and then from the command line run "vagrant up" an
 
 Once it's all set up (it takes a while) you should be able to go to "localhost:9123" in your browser and see all the files in this directory in your IPython notebook.
 
+Included packages
+=================
+
+* NumPy
+* Pandas
+* matplotlib
+* ggplot
+* rpy2
+* BigQuery & GCS clients
+
 Dependencies
 ============
 
